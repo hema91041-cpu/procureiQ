@@ -1,0 +1,6 @@
+{
+  "name": "ProcureIQ",
+  "description": "AI-Powered Smart Procurement ERP System for automated quotation extraction, vendor scoring, risk radar, and purchase order generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
